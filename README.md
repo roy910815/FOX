@@ -1,7 +1,9 @@
 # 狐狸桌寵
 桌面小狐狸 (Desktop Fox Pet)
 一款基於 Python 與 PyQt6 開發的輕量級桌面互動寵物。這隻小狐狸會生活在你的螢幕上，伴隨你工作與娛樂，並根據你的互動產生不同的情緒與行為反應。
-<img width="85" height="81" alt="image" src="https://github.com/user-attachments/assets/2b5a742f-2051-49cc-b62e-c772aa57b494" />
+
+<img width="85" height="81" alt="image" src="https://github.com/user-attachments/assets/2d148381-b98c-4f44-bd85-27e320e82ece" />
+
 
 # 功能特色
 動態生存系統：狐狸擁有「飽食度」、「精力」、「心情」與「好感度」四項數值，數值會隨時間動態消耗。
