@@ -1,4 +1,3 @@
-# FOX
 # 狐狸桌寵
 桌面小狐狸 (Desktop Fox Pet)
 一款基於 Python 與 PyQt6 開發的輕量級桌面互動寵物。這隻小狐狸會生活在你的螢幕上，伴隨你工作與娛樂，並根據你的互動產生不同的情緒與行為反應。
@@ -21,21 +20,8 @@ Bash
 pip install PyQt6 pynput
 3. 檔案結構
 請確保你的專案目錄結構如下，否則程式將無法載入圖片：
-Plaintext
-├── main.py              
-├── fox_save.json        
-└── assets/              
-    ├── idle_1.png ~ idle_4.png
-    ├── walk_2.png ~ walk_8.png
-    ├── tail_1.png ~ tail_4.png 
-    ├── sleep_1.png ~ sleep_4.png
-    ├── touch_1.png ~ touch_3.png 
-    ├── touchdown_1.png ~ touchdown_3.png (翻肚子)
-    ├── nuzzle_1.png ~ nuzzle_5.png (蹭蹭)
-    ├── eat_1.png ~ eat_3.png
-    ├── drag_1.png
-    ├── fall_1.png
-    └── shock_1.png
+<img width="677" height="300" alt="image" src="https://github.com/user-attachments/assets/934bce71-62c6-40e1-8967-cdb1d4906274" />
+
 # 使用指南
 動作	    說明
 左鍵單擊拖拽	抓起狐狸移動位置。
