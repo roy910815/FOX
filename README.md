@@ -27,9 +27,11 @@ Python 3.8 或以上版本
 作業系統：Windows (推薦), macOS, Linux
 
 2. 安裝套件開啟終端機並執行以下指令安裝所需函式庫：
+
 Bash
 
 pip install PyQt6 pynput
+
 3. 檔案結構
 請確保你的專案目錄結構如下，否則程式將無法載入圖片：
 <img width="677" height="300" alt="image" src="https://github.com/user-attachments/assets/934bce71-62c6-40e1-8967-cdb1d4906274" />
