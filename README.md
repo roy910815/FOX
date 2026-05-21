@@ -35,7 +35,8 @@ pip install PyQt6 pynput
 <img width="677" height="300" alt="image" src="https://github.com/user-attachments/assets/934bce71-62c6-40e1-8967-cdb1d4906274" />
 
 # 使用指南
-動作	    說明
+動作	      說明
+
 左鍵單擊拖拽	抓起狐狸移動位置。
 
 全域雙擊桌面	召喚狐狸奔向你的滑鼠位置。
